@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "972703181172",
+    "firebase_url": "https://edu-mobile-d35dd-default-rtdb.firebaseio.com",
+    "project_id": "edu-mobile-d35dd",
+    "storage_bucket": "edu-mobile-d35dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972703181172:android:9dc736a5013b0c8d4fe421",
+        "android_client_info": {
+          "package_name": "com.example.edu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx59-dVQOZWRVd4wKYEgET2c6QQfWWScI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
